@@ -1,0 +1,3 @@
+rep "MedicalRun (1)@SaryaDemir@cloud"
+  path "/"
+    smartbranch "/main"
